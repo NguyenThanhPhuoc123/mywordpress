@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress-6.0.1/wordpress/tu-khoa-san-pham/nail/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenthanhphuoc123.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 13 Oct 2022 12:52:54 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Oct 2022 08:12:22 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Peach Lipstick</title>
+		<link>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/peach-lipstick/</link>
+					<comments>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/peach-lipstick/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenthanhphuoc]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2022 07:52:44 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenthanhphuoc123.github.io/mywordpress/?post_type=product&#038;p=702</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/peach-lipstick/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Shield Sprai</title>
 		<link>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/shield-sprai/</link>
 					<comments>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/shield-sprai/#respond</comments>

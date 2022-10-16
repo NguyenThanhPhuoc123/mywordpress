@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress-6.0.1/wordpress/danh-muc-san-pham/skincare/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenthanhphuoc123.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 13 Oct 2022 12:47:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Oct 2022 08:01:30 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Refreshing Face Tonic</title>
+		<link>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/refreshing-face-tonic/</link>
+					<comments>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/refreshing-face-tonic/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenthanhphuoc]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2022 07:59:03 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenthanhphuoc123.github.io/mywordpress/?post_type=product&#038;p=708</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque enim orci, semper nec enim eget, porta aliquet dui. Maecenas mi dolor, mollis a leo facilisis, lobortis faucibus enim. Curabitur malesuada velit vel elit mollis mollis.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque enim orci, semper nec enim eget, porta aliquet dui. Maecenas mi dolor, mollis a leo facilisis, lobortis faucibus enim. Curabitur malesuada velit vel elit mollis mollis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/refreshing-face-tonic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Face Deep Cleanser</title>
+		<link>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/face-deep-cleanser/</link>
+					<comments>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/face-deep-cleanser/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenthanhphuoc]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2022 07:26:50 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenthanhphuoc123.github.io/mywordpress/?post_type=product&#038;p=681</guid>
+
+					<description><![CDATA[This is an external product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/face-deep-cleanser/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>N&#038;D Face Cream</title>
+		<link>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/nd-face-cream/</link>
+					<comments>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/nd-face-cream/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenthanhphuoc]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2022 07:21:50 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenthanhphuoc123.github.io/mywordpress/?post_type=product&#038;p=677</guid>
+
+					<description><![CDATA[This is an external product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/nd-face-cream/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Supreme Polishing Treatment</title>
 		<link>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/supreme-polishing-treatment/</link>
 					<comments>https://nguyenthanhphuoc123.github.io/mywordpress/san-pham/supreme-polishing-treatment/#respond</comments>
